@@ -1,0 +1,24 @@
+h1{
+    font-size: 40px;
+}
+h2{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+section{
+    margin: 5px;
+    border: solid;
+    padding: 2%;
+}
+p{
+    font-family: Helvetica;
+}
+
+#buscador{
+    background-color: #ff6666 ;
+}
+
+#textos{
+    background-color: #FF9B49 ;
+}
